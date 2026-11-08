@@ -1,14 +1,14 @@
-# Trabajo final: Turbina y Consumo de Agua en la UAB
+# Trabajo final: Web Biblioteca de las Cosas
 
 ## Objetivos y Finalidades
-Nuestro proyecto trata de una turbina que, gracias al consumo del agua de la UAB, girará y generará un tanto de energía eléctrica que luego podremos ahorrarnos en costes del agua.
+Nuestro proyecto trata de una plataforma web comunitaria donde los vecinos pueden prestar, alquilar o coger objetos que otros ya no utilizan[cite: 1]. Con esto fomentamos la economía circular, el consumo responsable y la reducción de residuos en nuestra comunidad.
 
 ## Criterios Mínimos de Éxito
-- **Maqueta:** Construcción y diseño del prototipo de la turbina.
-- **Página Web:** Desarrollo de la web para mostrar el proyecto.
-- **Análisis de Datos:** Procesamiento de la información sobre el agua de la UAB.
+- **Plataforma Web:** Desarrollo del sitio web interactivo para la gestión y catálogo del inventario.
+- **Catálogo y Préstamos:** Sistema para registrar, buscar y solicitar objetos disponibles.
+- **Gestión de Donaciones:** Módulo para que los usuarios puedan dar de alta objetos que ya no quieren.
 
 ## Gestión de Roles
-- **Cristina Alonso:** Encargada principal del montaje y los materiales de la maqueta/prototipo.
-- **Gisel·la Dalmau:** Diseñadora de la web y analista de datos.
-- **Paula Paz:** Encargada del repositorio y diseñadora de la web.
+- **Cristina:** Encargada principal del desarrollo backend y la base de datos de objetos.
+- **Gisel·la:** Diseñadora de la web y experiencia de usuario (UI/UX).
+- **Paula:** Encargada del repositorio, control de versiones y despliegue de la web.
